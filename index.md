@@ -4,7 +4,7 @@
 - The slides on the first day of class were very colorful
 - The instructions have been clear so far in Brightspace
 
-
+All the stuff below is just what was originally on the index.md page.
 
 ## Welcome to GitHub Pages
 
