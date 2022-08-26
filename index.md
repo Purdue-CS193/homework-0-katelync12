@@ -1,3 +1,11 @@
+# Katelyn Chen's First CS193 Homework
+- There's an Ed discussion to ask homework questions
+- The class is taught by past CS students
+- The slides on the first day of class were very colorful
+- The instructions have been clear so far in Brightspace
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
